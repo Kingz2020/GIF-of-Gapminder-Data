@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=about:client
+HostUrl=https://krspiced.pythonanywhere.com/_downloads/gapminder_total_fertility.csv
