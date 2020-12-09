@@ -13,4 +13,4 @@
 - To run this file, it is essential to have this data structure with the folder "pics" under the folder data" and the py file to be on the same level as the data folder. If one merely wants to see the result, this can be achieved by running the output.gif attached. The py file, however, allows for the creation of the file.
 
 # Requirements.txt
-- The attached requirement.txt includes all necessary libraties.
+- The attached requirement.txt includes all necessary libraries.
